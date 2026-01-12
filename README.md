@@ -3,5 +3,7 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/df74b0fa65f6b0a8223fe6d6dada3f05/3222e0850ef12195-48/s640x960/03adc69f8b5529ca8c77ffc28c8175d20bfddce0.pnj"
     </p>
-    
-<p align="center"> ![](https://komarev.com/ghpvc/?username=dollmaxxing&style=plastic&label=˃ᴗ˂&color=5bffde&base=60000) 
+
+     
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316j2hwh3ggq6chpnspifrouow7e&cover_image=true&theme=novatorem&show_offline=false&background_color=40665b&interchange=false&profanity=false&bar_color=366b68&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
